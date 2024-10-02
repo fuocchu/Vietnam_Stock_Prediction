@@ -1,5 +1,4 @@
 # Vietnam_Stock_Prediction
-# Stock Price Prediction Using LSTM
 
 ## Overview
 This project focuses on predicting the stock prices of four major Vietnamese companies: PNJ, FPT, MSN, and VIC, using Long Short-Term Memory (LSTM) neural networks. The dataset used for this project was provided by Finpros, where I completed my test_internship. The goal is to accurately forecast future stock prices using historical stock data, and during the analysis, I evaluated the correlation of the data to simplify the model by removing the volume column.
